@@ -7,6 +7,9 @@ Personas persona3 = persona2;
 Personas persona4 = (Personas)persona2;
 Personas persona5 = (Estudiantes)persona2;
 
+ISeguros iseguros = (ISeguros)persona2;
+IEstudiantes iestudiantes = (IEstudiantes)persona2;
+
 persona.Id = 1;
 persona.Nombre = "Pepito Perez";
 persona.Estatura = 1.60m;
@@ -29,6 +32,8 @@ public class Estados
 {
     public int Id;
     public string? Nombre;
+
+    public List<Personas>? Personas;
 }
 
 public class VideoJuegos
@@ -48,7 +53,27 @@ public class Personas
     public List<VideoJuegos>? VideoJuegos;
 }
 
-public class Estudiantes : Personas
+public interface IEstudiantes
+{
+    bool Matricula();
+}
+
+public interface ISeguros
+{
+    decimal SeguroDeVida(string nombre);
+}
+
+public class Estudiantes : Personas, IEstudiantes, ISeguros
 {
     public string? Carnet;
+
+    public bool Matricula() 
+    {
+        return true;
+    }
+
+    public decimal SeguroDeVida(string nombre)
+    {
+        return 0.0m;
+    }
 }
