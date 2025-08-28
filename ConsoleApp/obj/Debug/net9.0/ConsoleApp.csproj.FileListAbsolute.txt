@@ -13,3 +13,18 @@ C:\Users\AA\Desktop\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.
 C:\Users\AA\Desktop\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
 C:\Users\AA\Desktop\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\AA\Desktop\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Samue\Desktop\Programación Software\2025-2PDS8-10\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
